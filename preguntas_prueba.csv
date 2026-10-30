@@ -1,0 +1,13 @@
+﻿id,pregunta,fuente_esperada,tipo_fuente_esperada,en_alcance
+P01,"Olvide mi contrasena corporativa, que debo hacer?",01_politica_contrasenas.pdf,interna,si
+P02,Cada cuanto tiempo debo cambiar mi contrasena?,01_politica_contrasenas.pdf,interna,si
+P03,Como puedo conectarme a los sistemas de la empresa desde mi casa?,02_manual_vpn.pdf,interna,si
+P04,"La VPN me dice autenticacion fallida, que reviso primero?",02_manual_vpn.pdf,interna,si
+P05,"Outlook no esta recibiendo correos, que puedo revisar?",03_manual_correo_corporativo.pdf,interna,si
+P06,Puedo instalar Spotify en el computador de la empresa?,04_politica_instalacion_software.pdf,interna,si
+P07,"Necesito instalar Visual Studio Code para trabajar, como lo solicito?",04_politica_instalacion_software.pdf,interna,si
+P08,Como creo un ticket de soporte y que informacion debo incluir?,05_procedimiento_soporte_ti.pdf,interna,si
+P09,"Mi herramienta principal no funciona y no puedo trabajar, que prioridad podria tener?",05_procedimiento_soporte_ti.pdf,interna,si
+P10,Que recomienda CISA para proteger el acceso remoto?,07_cisa_mfa_y_phishing.pdf,externa,si
+P11,"Outlook aparece trabajando sin conexion, que recomienda Microsoft revisar?",06_microsoft_outlook_solucion_problemas.pdf,externa,si
+P12,Cual es la capital de Francia?,NINGUNA,ninguna,no

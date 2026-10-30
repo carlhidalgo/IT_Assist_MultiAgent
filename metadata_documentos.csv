@@ -1,0 +1,8 @@
+﻿archivo,tipo_fuente,tema,descripcion
+01_politica_contrasenas.pdf,interna,contrasenas y acceso,"Reglas de contrasenas, recuperacion, MFA y bloqueos."
+02_manual_vpn.pdf,interna,VPN,"Conexion remota, requisitos y problemas frecuentes."
+03_manual_correo_corporativo.pdf,interna,correo,"Uso de Outlook, envio, recepcion, adjuntos y phishing."
+04_politica_instalacion_software.pdf,interna,software,"Software autorizado, solicitudes y prohibiciones."
+05_procedimiento_soporte_ti.pdf,interna,mesa de ayuda,"Tickets, prioridades, tiempos y escalamiento."
+06_microsoft_outlook_solucion_problemas.pdf,externa,Outlook,Resumen de recomendaciones publicas de Microsoft Support.
+07_cisa_mfa_y_phishing.pdf,externa,seguridad,Resumen de recomendaciones publicas de CISA sobre MFA y phishing.

@@ -1,0 +1,191 @@
+[
+  {
+    "id": 0,
+    "archivo": "01_politica_contrasenas.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "IT-Assist RAG - Material academico Pagina 1 Politica Interna de Contrasenas y Acceso NexaTI Servicios SpA - Version academica 1.0 Documento interno simulado para fines academicos. No representa una politica real de una empresa. 1. Objetivo Definir reglas basicas para la creacion, uso, recuperacion y proteccion de credenciales corporativas. La politica aplica a cuentas de correo, VPN, mesa de ayuda y aplicaciones internas. 2. Reglas para las contrasenas - Las contrasenas corporativas deben tener al menos 14 caracteres. - Se recomienda combinar palabras o frases faciles de recordar para el usuario, evitando datos personales evidentes. - No se permite reutilizar la misma contrasena corporativa en servicios personales. - Las contrasenas no deben compartirse por correo, chat, telefono ni mensaj"
+  },
+  {
+    "id": 1,
+    "archivo": "01_politica_contrasenas.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "ermite reutilizar la misma contrasena corporativa en servicios personales. - Las contrasenas no deben compartirse por correo, chat, telefono ni mensajes de texto. - No se exige un cambio periodico fijo. El cambio se realiza cuando exista sospecha de compromiso, indicacion del area TI o recuperacion de cuenta. 3. Recuperacion de una contrasena olvidada Si una persona olvida su contrasena, debe utilizar primero el portal interno de recuperacion de credenciales. El proceso solicita verificar la identidad mediante un segundo factor. - Paso 1: ingresar al portal interno de recuperacion. - Paso 2: indicar la cuenta corporativa. - Paso 3: completar la validacion de identidad. - Paso 4: definir una nueva contrasena que cumpla esta politica. - Si el proceso automatico falla, se debe crear un ticket"
+  },
+  {
+    "id": 2,
+    "archivo": "01_politica_contrasenas.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "la validacion de identidad. - Paso 4: definir una nueva contrasena que cumpla esta politica. - Si el proceso automatico falla, se debe crear un ticket en la mesa de ayuda con categoria 'Cuenta y acceso'. 4. Autenticacion multifactor Las cuentas con acceso remoto, correo corporativo y funciones administrativas deben utilizar autenticacion multifactor (MFA). El segundo factor no debe aprobarse si el usuario no inicio la solicitud. 5. Bloqueos y alertas Tras varios intentos fallidos, una cuenta puede quedar temporalmente bloqueada. El usuario no debe continuar probando contrasenas al azar. Debe esperar el periodo indicado por el sistema o contactar a soporte. Si el usuario recibe una solicitud MFA que no reconoce, debe rechazarla y reportarla inmediatamente al area TI. 6. Responsabilidades de"
+  },
+  {
+    "id": 3,
+    "archivo": "01_politica_contrasenas.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "tar a soporte. Si el usuario recibe una solicitud MFA que no reconoce, debe rechazarla y reportarla inmediatamente al area TI. 6. Responsabilidades del usuario - Bloquear la sesion al alejarse del equipo. - No guardar contrasenas en archivos de texto sin proteccion. - Reportar mensajes sospechosos que soliciten credenciales."
+  },
+  {
+    "id": 4,
+    "archivo": "01_politica_contrasenas.pdf",
+    "pagina": 2,
+    "tipo_fuente": "interna",
+    "texto": "IT-Assist RAG - Material academico Pagina 2 - Notificar inmediatamente cualquier posible acceso no autorizado."
+  },
+  {
+    "id": 5,
+    "archivo": "02_manual_vpn.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "IT-Assist RAG - Material academico Pagina 1 Manual de Conexion VPN Corporativa NexaTI Servicios SpA - Version academica 1.0 Documento interno simulado para fines academicos. No representa una politica real de una empresa. 1. Proposito La VPN corporativa permite acceder de forma remota a recursos internos cuando el trabajador se encuentra fuera de la oficina. Debe utilizarse solamente desde equipos autorizados por la organizacion. 2. Requisitos previos - Equipo corporativo con el cliente VPN instalado por TI. - Conexion a Internet estable. - Credenciales corporativas activas. - Autenticacion multifactor habilitada. 3. Procedimiento de conexion - Abrir el cliente VPN instalado en el equipo. - Seleccionar el perfil 'VPN-CORP-SCL'. - Ingresar el correo corporativo y la contrasena. - Completar"
+  },
+  {
+    "id": 6,
+    "archivo": "02_manual_vpn.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "- Abrir el cliente VPN instalado en el equipo. - Seleccionar el perfil 'VPN-CORP-SCL'. - Ingresar el correo corporativo y la contrasena. - Completar la solicitud de autenticacion multifactor. - Esperar hasta que el estado indique 'Conectado'. Una vez conectado, el usuario puede acceder a los sistemas internos autorizados para su perfil. 4. Problemas frecuentes No aparece el perfil VPN-CORP-SCL Reiniciar el cliente VPN. Si el perfil sigue sin aparecer, crear un ticket de soporte indicando que falta la configuracion del perfil. Autenticacion fallida Verificar que las credenciales corporativas funcionen en el correo. Si la contrasena fue cambiada recientemente, cerrar y volver a abrir el cliente VPN. Si persiste el problema, utilizar el procedimiento de recuperacion de cuenta. La VPN se cone"
+  },
+  {
+    "id": 7,
+    "archivo": "02_manual_vpn.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "da recientemente, cerrar y volver a abrir el cliente VPN. Si persiste el problema, utilizar el procedimiento de recuperacion de cuenta. La VPN se conecta pero no abre sistemas internos Verificar que el estado siga mostrando 'Conectado'. Desconectar y volver a conectar una vez. Si el problema continua, registrar un ticket con el nombre del sistema que no responde. Conexion inestable Comprobar primero la conexion a Internet sin VPN. Si la red local esta inestable, cambiar a una conexion confiable antes de volver a intentar. 5. Seguridad - No desactivar el antivirus o firewall para intentar solucionar la VPN. - No compartir el segundo factor MFA con otra persona. - No utilizar computadores publicos para acceder a la VPN corporativa."
+  },
+  {
+    "id": 8,
+    "archivo": "02_manual_vpn.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "con otra persona. - No utilizar computadores publicos para acceder a la VPN corporativa."
+  },
+  {
+    "id": 9,
+    "archivo": "02_manual_vpn.pdf",
+    "pagina": 2,
+    "tipo_fuente": "interna",
+    "texto": "IT-Assist RAG - Material academico Pagina 2 - Desconectar la VPN al finalizar la jornada remota."
+  },
+  {
+    "id": 10,
+    "archivo": "03_manual_correo_corporativo.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "IT-Assist RAG - Material academico Pagina 1 Manual de Correo Corporativo y Outlook NexaTI Servicios SpA - Version academica 1.0 Documento interno simulado para fines academicos. No representa una politica real de una empresa. 1. Alcance El correo corporativo se utiliza para comunicaciones de trabajo. La organizacion usa Microsoft Outlook como cliente principal y una cuenta corporativa administrada por TI. 2. Inicio de sesion - Utilizar siempre la direccion de correo corporativa completa. - Ingresar la contrasena corporativa vigente. - Completar MFA cuando el sistema lo solicite. - No aprobar solicitudes de acceso que el usuario no haya iniciado. 3. Problemas de recepcion o envio - Comprobar que el equipo tenga acceso a Internet. - Verificar que Outlook no se encuentre en modo 'Trabajar sin"
+  },
+  {
+    "id": 11,
+    "archivo": "03_manual_correo_corporativo.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "do. 3. Problemas de recepcion o envio - Comprobar que el equipo tenga acceso a Internet. - Verificar que Outlook no se encuentre en modo 'Trabajar sin conexion'. - Cerrar y volver a abrir Outlook una vez. - Comprobar si existe una alerta de almacenamiento o buzon lleno. - Si la contrasena corporativa cambio recientemente, actualizar la sesion de Outlook. Si el problema persiste luego de estas comprobaciones, se debe crear un ticket en la categoria 'Correo corporativo'. 4. Archivos adjuntos Para archivos grandes se recomienda utilizar el almacenamiento corporativo y compartir un enlace, en lugar de adjuntar el archivo directamente. La empresa establece un limite operativo de 20 MB por mensaje para archivos adjuntos. 5. Correo sospechoso - No abrir enlaces o archivos inesperados. - No respon"
+  },
+  {
+    "id": 12,
+    "archivo": "03_manual_correo_corporativo.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "establece un limite operativo de 20 MB por mensaje para archivos adjuntos. 5. Correo sospechoso - No abrir enlaces o archivos inesperados. - No responder solicitando o enviando contrasenas. - Reportar mensajes que intenten generar urgencia para obtener credenciales o pagos. - Si se abrio un enlace sospechoso, informar a TI incluso si no se ingreso una contrasena. 6. Escalamiento Al crear un ticket por correo, indicar si el problema afecta envio, recepcion, inicio de sesion o sincronizacion. Incluir el mensaje de error visible y la hora aproximada en que comenzo."
+  },
+  {
+    "id": 13,
+    "archivo": "04_politica_instalacion_software.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "IT-Assist RAG - Material academico Pagina 1 Politica de Instalacion y Uso de Software NexaTI Servicios SpA - Version academica 1.0 Documento interno simulado para fines academicos. No representa una politica real de una empresa. 1. Objetivo Controlar la instalacion de aplicaciones en equipos corporativos para reducir riesgos de seguridad, incompatibilidades y uso de software sin licencia. 2. Software autorizado El catalogo base incluye Microsoft 365, Microsoft Teams, Microsoft Edge, Google Chrome, 7-Zip, cliente VPN corporativo y otras herramientas aprobadas segun el rol del trabajador. 3. Solicitud de software adicional - Crear un ticket en la categoria 'Software y aplicaciones'. - Indicar nombre del programa y motivo laboral. - TI revisara licencia, seguridad, compatibilidad y necesidad."
+  },
+  {
+    "id": 14,
+    "archivo": "04_politica_instalacion_software.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "la categoria 'Software y aplicaciones'. - Indicar nombre del programa y motivo laboral. - TI revisara licencia, seguridad, compatibilidad y necesidad. - La instalacion se realiza solo despues de la aprobacion. Aplicaciones no relacionadas con el trabajo, como clientes de entretenimiento o consumo personal, no se instalan en equipos corporativos salvo autorizacion expresa. 4. Acciones prohibidas - Instalar software pirateado, crackeado o de origen desconocido. - Desactivar antivirus, firewall o controles de seguridad para instalar una aplicacion. - Usar cuentas administrativas no autorizadas. - Instalar extensiones de navegador que soliciten permisos excesivos sin revision de TI. 5. Actualizaciones Las actualizaciones del sistema operativo y software administrado se distribuyen desde TI. El"
+  },
+  {
+    "id": 15,
+    "archivo": "04_politica_instalacion_software.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "ermisos excesivos sin revision de TI. 5. Actualizaciones Las actualizaciones del sistema operativo y software administrado se distribuyen desde TI. El usuario debe reiniciar el equipo cuando el sistema lo solicite, salvo que exista una tarea critica en curso. 6. Ejemplos Solicitud Resultado esperado Instalar Visual Studio Code para tareas de desarrollo Crear ticket y solicitar aprobacion segun rol Instalar Spotify para uso personal No autorizado por defecto Actualizar Microsoft 365 Seguir actualizacion administrada por TI Instalar programa descargado desde un sitio desconocido Prohibido"
+  },
+  {
+    "id": 16,
+    "archivo": "05_procedimiento_soporte_ti.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "IT-Assist RAG - Material academico Pagina 1 Procedimiento de Mesa de Ayuda TI NexaTI Servicios SpA - Version academica 1.0 Documento interno simulado para fines academicos. No representa una politica real de una empresa. 1. Objetivo Definir como registrar, priorizar y escalar incidentes o solicitudes de soporte tecnologico. 2. Creacion de un ticket El usuario debe ingresar al portal interno de soporte y seleccionar 'Nuevo ticket'. El registro debe incluir: - Nombre del usuario y area. - Equipo o servicio afectado. - Descripcion breve del problema. - Mensaje de error, si existe. - Hora aproximada de inicio. - Captura de pantalla cuando sea util y no contenga informacion sensible. 3. Categorias - Cuenta y acceso. - VPN y conectividad. - Correo corporativo. - Software y aplicaciones. - Equipo"
+  },
+  {
+    "id": 17,
+    "archivo": "05_procedimiento_soporte_ti.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "l y no contenga informacion sensible. 3. Categorias - Cuenta y acceso. - VPN y conectividad. - Correo corporativo. - Software y aplicaciones. - Equipo fisico. - Otro servicio TI. 4. Prioridades y tiempos objetivo Prioridad Ejemplo Respuesta inicial objetivo Critica Servicio esencial caido para toda un area 15 minutos Alta Usuario sin acceso a una herramienta necesaria para trabajar 1 hora Media Falla con alternativa temporal disponible 4 horas Baja Consulta, instalacion o mejora no urgente 1 dia habil 5. Escalamiento Si el primer nivel no puede resolver el caso con los procedimientos disponibles, el ticket se escala al especialista correspondiente manteniendo el mismo numero de caso. Los incidentes de seguridad, accesos no reconocidos, posibles cuentas comprometidas o correos maliciosos se"
+  },
+  {
+    "id": 18,
+    "archivo": "05_procedimiento_soporte_ti.pdf",
+    "pagina": 1,
+    "tipo_fuente": "interna",
+    "texto": "iente manteniendo el mismo numero de caso. Los incidentes de seguridad, accesos no reconocidos, posibles cuentas comprometidas o correos maliciosos se escalan inmediatamente al responsable de seguridad TI. 6. Horario La mesa de ayuda opera de lunes a viernes de 08:30 a 18:00. Los incidentes criticos pueden activar el mecanismo de escalamiento fuera de horario segun disponibilidad del equipo de guardia."
+  },
+  {
+    "id": 19,
+    "archivo": "05_procedimiento_soporte_ti.pdf",
+    "pagina": 2,
+    "tipo_fuente": "interna",
+    "texto": "IT-Assist RAG - Material academico Pagina 2 7. Cierre El ticket se cierra cuando el servicio queda restablecido o la solicitud fue completada. El usuario puede reabrir el caso si el mismo problema reaparece dentro de las siguientes 48 horas."
+  },
+  {
+    "id": 20,
+    "archivo": "06_microsoft_outlook_solucion_problemas.pdf",
+    "pagina": 1,
+    "tipo_fuente": "externa",
+    "texto": "IT-Assist RAG - Material academico Pagina 1 Referencia Externa: Solucion de Problemas de Outlook Resumen academico basado en Microsoft Support Resumen academico elaborado a partir de fuentes publicas oficiales. No sustituye la documentacion original. 1. Envio y recepcion de correo Microsoft recomienda comenzar por comprobaciones simples cuando Outlook no puede enviar o recibir mensajes: verificar la conexion a Internet, revisar el estado de conexion de Outlook y comprobar si el cliente se encuentra trabajando sin conexion. En algunas versiones, una sincronizacion manual puede ayudar a comprobar si existen mensajes nuevos o pendientes. 2. Estado de conexion Si Outlook muestra estados como 'Desconectado', 'Trabajando sin conexion' o intenta conectarse continuamente, el cliente puede no estar"
+  },
+  {
+    "id": 21,
+    "archivo": "06_microsoft_outlook_solucion_problemas.pdf",
+    "pagina": 1,
+    "tipo_fuente": "externa",
+    "texto": "do de conexion Si Outlook muestra estados como 'Desconectado', 'Trabajando sin conexion' o intenta conectarse continuamente, el cliente puede no estar comunicandose correctamente con el servidor de correo. Cuando el problema es de conectividad general, Microsoft recomienda comprobar primero que el equipo pueda acceder a Internet. 3. Almacenamiento Un almacenamiento de Microsoft lleno puede impedir el envio o recepcion de correo. Por ello, revisar el espacio disponible es una comprobacion relevante antes de realizar cambios mas complejos. 4. Contrasenas y configuracion Si la contrasena del proveedor de correo cambio recientemente, Outlook puede requerir una actualizacion de las credenciales. Microsoft tambien indica que algunos problemas pueden estar relacionados con la configuracion de la"
+  },
+  {
+    "id": 22,
+    "archivo": "06_microsoft_outlook_solucion_problemas.pdf",
+    "pagina": 1,
+    "tipo_fuente": "externa",
+    "texto": "e requerir una actualizacion de las credenciales. Microsoft tambien indica que algunos problemas pueden estar relacionados con la configuracion de la cuenta o el perfil. 5. Uso en IT-Assist RAG Este documento se incorpora como fuente externa para complementar el manual interno de correo. En caso de conflicto, la politica interna de la organizacion tiene prioridad para procedimientos propios. Fuentes publicas consultadas - Microsoft Support - Problemas para enviar y recibir correo electronico: https://support.microsoft.com/es-ES/Outlook/issues-sending-and-receiving-email - Microsoft Support - No puedo enviar ni recibir mensajes en Outlook: https://support.microsoft.com/es-es/outlook/i-can-t-send-or-receive-messages-in-outlook"
+  },
+  {
+    "id": 23,
+    "archivo": "06_microsoft_outlook_solucion_problemas.pdf",
+    "pagina": 1,
+    "tipo_fuente": "externa",
+    "texto": "ps://support.microsoft.com/es-es/outlook/i-can-t-send-or-receive-messages-in-outlook"
+  },
+  {
+    "id": 24,
+    "archivo": "07_cisa_mfa_y_phishing.pdf",
+    "pagina": 1,
+    "tipo_fuente": "externa",
+    "texto": "IT-Assist RAG - Material academico Pagina 1 Referencia Externa: MFA y Prevencion de Phishing Resumen academico basado en CISA Resumen academico elaborado a partir de fuentes publicas oficiales. No sustituye la documentacion original. 1. Autenticacion multifactor CISA recomienda utilizar autenticacion multifactor (MFA) porque agrega una capa adicional de proteccion cuando una contrasena es comprometida. Para organizaciones, CISA destaca especialmente el uso de MFA en correo, acceso remoto, almacenamiento de archivos y cuentas administrativas. 2. Fortaleza de los metodos MFA No todos los metodos MFA entregan el mismo nivel de proteccion. CISA recomienda avanzar hacia opciones resistentes al phishing cuando sea posible. Las llaves de seguridad y metodos basados en FIDO ofrecen mayor resistenc"
+  },
+  {
+    "id": 25,
+    "archivo": "07_cisa_mfa_y_phishing.pdf",
+    "pagina": 1,
+    "tipo_fuente": "externa",
+    "texto": "ecomienda avanzar hacia opciones resistentes al phishing cuando sea posible. Las llaves de seguridad y metodos basados en FIDO ofrecen mayor resistencia que codigos enviados por SMS. Cuando una organizacion aun no puede implementar MFA resistente al phishing, otros metodos siguen aportando proteccion adicional frente al uso exclusivo de contrasenas. 3. Phishing Los ataques de phishing suelen intentar que el usuario abra un archivo, siga un enlace malicioso o entregue informacion confidencial. Los trabajadores deben reportar mensajes sospechosos y evitar aprobar solicitudes de acceso inesperadas. 4. Acceso remoto CISA recomienda proteger el acceso remoto a la red de una organizacion mediante MFA. Esta recomendacion complementa el procedimiento interno de VPN del proyecto. 5. Uso en IT-Assis"
+  },
+  {
+    "id": 26,
+    "archivo": "07_cisa_mfa_y_phishing.pdf",
+    "pagina": 1,
+    "tipo_fuente": "externa",
+    "texto": "ceso remoto a la red de una organizacion mediante MFA. Esta recomendacion complementa el procedimiento interno de VPN del proyecto. 5. Uso en IT-Assist RAG Esta fuente externa permite responder preguntas generales sobre MFA y buenas practicas de seguridad. Los pasos operativos especificos de NexaTI Servicios SpA deben obtenerse primero de los documentos internos. Fuentes publicas consultadas - CISA - Require Multifactor Authentication: https://www.cisa.gov/audiences/small-and-medium-businesses /secure-your-business/require-multifactor-authentication - CISA - Secure Our World: https://www.cisa.gov/secure-our-world"
+  }
+]
