@@ -2,6 +2,8 @@
 
 **Orquestación Multi-Agente con CrewAI sobre Base RAG de EP1**
 
+Proyecto desarrollado para la asignatura **Ingeniería de Soluciones con IA de Duoc UC**. La aplicación simula un asistente de soporte TI que consulta una base de conocimiento y coordina varios agentes para entregar respuestas claras, priorizadas y útiles.
+
 Caso de uso: Soporte de TI (contraseñas, VPN, correo, software, tickets).
 Reutiliza el índice FAISS + chunks de EP1 sin reconstruir.
 
